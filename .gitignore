@@ -1,4 +1,5 @@
 *.o
 *.root
 *.txt
+.vscode
 V1730_DPP_PSD
