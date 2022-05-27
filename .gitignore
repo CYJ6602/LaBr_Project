@@ -1,5 +1,8 @@
 *.o
 *.root
 *.txt
+*.d
+*.so
+*.pcm
 .vscode
 V1730_DPP_PSD
